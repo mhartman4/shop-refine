@@ -1,3 +1,9 @@
 source 'https://rubygems.org'
+
+gem 'dotenv'
+gem 'shotgun'
 gem 'sinatra'
-# Comment
+
+group :development do
+  gem 'shotgun'
+end

@@ -10,4 +10,4 @@ make commits then `git push heroku master` to update heroku
 
 ## Use
 
-runs at http://boom.orderup.com
+runs at ___
